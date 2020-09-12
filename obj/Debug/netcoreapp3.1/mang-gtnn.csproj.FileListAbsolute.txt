@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\mang-gtnn\obj\Debug\netcoreapp3.1\mang-gtnn.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\mang-gtnn\obj\Debug\netcoreapp3.1\mang-gtnn.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\mang-gtnn\obj\Debug\netcoreapp3.1\mang-gtnn.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\mang-gtnn\bin\Debug\netcoreapp3.1\mang-gtnn.exe
+C:\Users\Administrator\source\repos\mang-gtnn\bin\Debug\netcoreapp3.1\mang-gtnn.deps.json
+C:\Users\Administrator\source\repos\mang-gtnn\bin\Debug\netcoreapp3.1\mang-gtnn.runtimeconfig.json
+C:\Users\Administrator\source\repos\mang-gtnn\bin\Debug\netcoreapp3.1\mang-gtnn.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\mang-gtnn\bin\Debug\netcoreapp3.1\mang-gtnn.dll
+C:\Users\Administrator\source\repos\mang-gtnn\bin\Debug\netcoreapp3.1\mang-gtnn.pdb
+C:\Users\Administrator\source\repos\mang-gtnn\obj\Debug\netcoreapp3.1\mang-gtnn.dll
+C:\Users\Administrator\source\repos\mang-gtnn\obj\Debug\netcoreapp3.1\mang-gtnn.pdb
+C:\Users\Administrator\source\repos\mang-gtnn\obj\Debug\netcoreapp3.1\mang-gtnn.genruntimeconfig.cache
